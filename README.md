@@ -5,6 +5,10 @@
 
 A responsive React application that tracks real-time cryptocurrency prices, simulating WebSocket updates and managing state with Redux Toolkit.
 
+## Demo
+![Sample Output](https://github.com/user-attachments/assets/1349e43e-43e5-4a0b-8d86-caf428e3ffcb)
+
+
 ## Setup Instructions
 
 1.  **Clone the repository:**
