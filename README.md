@@ -64,8 +64,15 @@ The application follows a standard React structure with Redux for state manageme
 
 ## Bonus Features (If Implemented)
 
-*(List any bonus features you implemented here, e.g., real WebSocket integration, filters, sorting, local storage, unit tests, TypeScript.)*
+* **Integrate Real WebSocket:** Instead of using a mock, connect to a real-time cryptocurrency data feed (e.g., from Binance, Coinbase, or another exchange).
+* **Filters:** Implement functionality to filter the displayed cryptocurrencies (e.g., show only top gainers, specific symbols).
+* **Sorting:** Allow users to sort the table columns (e.g., by price, market cap, % change).
+* **Local Storage Support:** Persist user preferences (e.g., sorting order, displayed columns) using `localStorage`.
+* **Unit Tests:** Write unit tests for Redux reducers and selectors to ensure the state management logic is working correctly.
+* **TypeScript:** Migrate the codebase from JavaScript to TypeScript for improved type safety and developer experience.
+* **More Detailed Charts:** Implement more interactive and detailed charting using a library like Chart.js or Recharts.
+* **User Interface Enhancements:** Improve the visual design and user experi
 
 ## Author
 
-Your Name / GitHub Username
+DISHA MISHRA / 
